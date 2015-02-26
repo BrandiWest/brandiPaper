@@ -1,1 +1,3 @@
 this is fantastic :)
+
+some new methods have been added.
